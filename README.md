@@ -35,7 +35,7 @@ Two ways to run Tanya. Pick one.
 
 ### Option A — Docker
 
-Runs everything (OpenClaw + Tanya) inside an isolated sandbox environment. Nothing touches the host except Docker itself. Works on any Linux VPS, a Mac with Docker Desktop, or a home server.
+Runs everything (OpenClaw + Tanya) inside an isolated sandbox environment. Nothing touches the host except Docker itself. Works on any Linux VPS, a Mac with Docker Desktop, or a home server. Requires Docker with the Compose plugin — the setup wizard detects if it's missing and walks you through installation.
 
 **1. Clone and run:**
 
