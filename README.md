@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tanya.opxia.ai">tanya.opxia.ai</a> &nbsp;·&nbsp;
+  <a href="https://tanya.opxia.com">tanya.opxia.com</a> &nbsp;·&nbsp;
   <a href="https://x.com/TanyaXKhanna">@TanyaXKhanna</a>
 </p>
 
